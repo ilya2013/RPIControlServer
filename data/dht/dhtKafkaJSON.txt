@@ -1,0 +1,1 @@
+"{\"comment\": \"VAIO front\", \"location\": \"Server room\", \"temperature\": 33.20000076293945, \"time\": \"2020-07-24-14.44.13\", \"pin\": \"17\", \"humidity\": 24.0, \"sensor_model\": 22, \"device_name\": \"RPI1\"}"

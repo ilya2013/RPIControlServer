@@ -1,0 +1,1 @@
+{"comment": "VAIO front", "location": "Server room", "temperature": 30.5, "time": "2020-06-14-16.59.41", "pin": "18", "humidity": 25.700000762939453, "sensor_model": 22, "device_name": "RPI1"}
